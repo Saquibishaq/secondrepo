@@ -15,6 +15,14 @@ educational_movies = [
         "year": 2006,
         "category": "Environmental"
     },
+     {
+        "id": 4,
+        "title": "An Inconvenient Truth",
+        "description": "Climate change documentary.",
+        "director": "Davis Guggenheim",
+        "year": 2006,
+        "category": "Environmental"
+    },
     {
         "id": 3,
         "title": "Blackfish",
